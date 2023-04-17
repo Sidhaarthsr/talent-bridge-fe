@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-talentbridge-staging-34324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::104830726239:role/amplify-talentbridge-staging-34324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::104830726239:role/amplify-talentbridge-staging-34324-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-talentbridge-staging-34324-deployment",
+      "UnauthRoleName": "amplify-talentbridge-staging-34324-unauthRole",
+      "StackName": "amplify-talentbridge-staging-34324",
+      "StackId": "arn:aws:cloudformation:us-east-2:104830726239:stack/amplify-talentbridge-staging-34324/04c9fc90-d364-11ed-82d4-02905d19378a",
+      "AmplifyAppId": "d3gbac26uolih6"
+    },
+    "categories": {
+      "auth": {
+        "talentbridge": {}
+      }
+    }
+  }
+}
